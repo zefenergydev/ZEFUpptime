@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 433,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 345,
+    "timeDay": 345,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zefnet-partner-api",
     "status": "down",
-    "uptime": "6.80%",
-    "uptimeDay": "6.80%",
-    "uptimeWeek": "6.80%",
-    "uptimeMonth": "6.80%",
-    "uptimeYear": "6.80%",
-    "time": 399,
-    "timeDay": 399,
-    "timeWeek": 399,
-    "timeMonth": 399,
-    "timeYear": 399,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2026-04-23": 0
+      "2026-04-24": 123,
+      "2026-04-23": 584
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/utility.zefenergy.com.ico",
     "slug": "zefnet-portal",
     "status": "down",
-    "uptime": "6.02%",
-    "uptimeDay": "6.02%",
-    "uptimeWeek": "6.02%",
-    "uptimeMonth": "6.02%",
-    "uptimeYear": "6.02%",
-    "time": 614,
-    "timeDay": 614,
-    "timeWeek": 614,
-    "timeMonth": 614,
-    "timeYear": 614,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 508,
+    "timeDay": 508,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2026-04-23": 0
+      "2026-04-24": 123,
+      "2026-04-23": 584
     }
   },
   {
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 694,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
+    "time": 544,
+    "timeDay": 544,
+    "timeWeek": 544,
+    "timeMonth": 544,
+    "timeYear": 544,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobile.zefenergy.com.ico",
     "slug": "zefnet-charge-mobile-app",
     "status": "down",
-    "uptime": "12.28%",
-    "uptimeDay": "12.28%",
-    "uptimeWeek": "12.28%",
-    "uptimeMonth": "12.28%",
-    "uptimeYear": "12.28%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-23": 0
+      "2026-04-24": 123,
+      "2026-04-23": 584
     }
   }
 ]
