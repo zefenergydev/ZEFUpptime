@@ -1,7 +1,7 @@
 url: https://www.zefenergy.com
-status: up
-code: 200
-responseTime: 160
-lastUpdated: 2026-06-30T23:56:53.028Z
+status: down
+code: 429
+responseTime: 136
+lastUpdated: 2026-07-01T21:45:55.936Z
 startTime: 2026-04-23T14:16:11.669Z
 generator: Upptime <https://github.com/upptime/upptime>
