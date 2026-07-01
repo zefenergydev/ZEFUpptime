@@ -4,18 +4,20 @@
     "url": "https://www.zefenergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zefenergy.com.ico",
     "slug": "zef-energy-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 160,
-    "timeWeek": 374,
-    "timeMonth": 376,
-    "timeYear": 399,
-    "dailyMinutesDown": {}
+    "time": 395,
+    "timeDay": 148,
+    "timeWeek": 344,
+    "timeMonth": 368,
+    "timeYear": 395,
+    "dailyMinutesDown": {
+      "2026-07-01": 1
+    }
   },
   {
     "name": "ZEFNET Partner API",
@@ -34,7 +36,7 @@
     "timeMonth": 159,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2026-07-01": 169,
+      "2026-07-01": 1307,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -123,7 +125,7 @@
     "timeMonth": 37,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-07-01": 169,
+      "2026-07-01": 1307,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -230,7 +232,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 169,
+      "2026-07-01": 1307,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
